@@ -18,4 +18,7 @@
   <li class="nav-item">
     <a class="nav-link" href="?c=cliente&metodo=listar">Listar Clientes</a>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="admin">Área Administrativa</a>
+  </li>
 </ul>
